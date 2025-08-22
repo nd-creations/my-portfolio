@@ -114,7 +114,7 @@
   <header>
     <h1>Naveen ND</h1>
     <p>Web Developer | Designer | Programmer</p>
-    <img src="Cnnd.png" alt="Profile Photo" class="profile-pic">
+    <img src="king.jpg" alt="Profile Photo" class="profile-pic">
   </header>
 
   <nav>
